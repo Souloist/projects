@@ -9,7 +9,7 @@ Every day I plan to commit one solution to an new interesting problem.
 
 List
 ---
-**Quote Finder** - Create a script that will parse quotes from a webpage and return a random quote
+[**Quote Finder**](https://github.com/Souloist/Projects/blob/master/solutions/Coin_Flip_Simulation.py) - Create a script that will parse quotes from a webpage and return a random quote
 
 **PDF Appender** - Create a program that will append one PDF with another
 
