@@ -1,5 +1,4 @@
 # Project List
-====
 
 Implementations will be done primarily in python
 
