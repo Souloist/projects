@@ -1,8 +1,6 @@
 # Project List
 ====
 
-## [Solutions](https://github.com/souloist/Projects/solutions)
-
 Implementations will be done primarily in python
 
 Every day I plan to commit one solution to an new interesting problem.
