@@ -9,7 +9,10 @@ Every day I plan to commit one solution to an new interesting problem.
 
 List
 ---
-[**Quote Finder**](https://github.com/Souloist/Projects/blob/master/solutions/Coin_Flip_Simulation.py) - Create a script that will parse quotes from a webpage and return a random quote
+
+[**Coin Flip Simulation**](https://github.com/Souloist/Projects/blob/master/solutions/Coin_Flip_Simulation.py) - Write a program that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads.
+
+[**Quote Finder**](https://github.com/Souloist/Projects/blob/master/solutions/random_quote.py) - Create a script that will parse quotes from a webpage and return a random quote
 
 **PDF Appender** - Create a program that will append one PDF with another
 
