@@ -18,6 +18,6 @@ List
 Webcrawling
 ---
 
-[**Title Retriever**] - Create a program that will return the title of a website given the url
+[**Title Retriever**](https://github.com/Souloist/Projects/blob/master/solutions/title_retriever.py) - Create a program that will return the title of a website given the url
 
 [**Stock Price Retriever**] - Given an stock price abbreviation (eg. GOOG), return the current stock price
