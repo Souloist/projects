@@ -12,7 +12,7 @@ def get_stock_data(abbreviation):
 	htmltext = BeautifulSoup(htmlfile.text, 'lxml')
 
 	#Extract current stock price
-	regex = '<span id="yfs_l84_%s">(.+?)</span>' %abbreviation.lower()
+	regex = '<span id="yfs_l84_%s">(.+?)</span>' %abbreviation.lower() # alternatively could use [^.]* instead of %s
 	pattern = re.compile(regex)
 	current_price = re.findall(pattern, str(htmltext))
 
