@@ -21,3 +21,5 @@ Webcrawling
 [**Title Retriever**](https://github.com/Souloist/Projects/blob/master/solutions/title_retriever.py) - Create a program that will return the title of a website given the url
 
 **Stock Price Retriever** - Given an stock price abbreviation (eg. GOOG), return the current stock price, the percentage change from the previous day's closing price, and the previous day's closing price. [**[First version]**](https://github.com/Souloist/Projects/blob/master/solutions/get_stock_data.py) [**[Using JSON]**](https://github.com/Souloist/Projects/blob/master/solutions/get_stock_data_json.py)
+
+**1-Day Stock Data** - Given a stock price abbreviation (eg. GOOG), return the entire day's minute stock data and save it to a text file.
