@@ -55,3 +55,9 @@ Text Manipulation
 **Vigenere / Vernam / Ceasar Ciphers** - Functions for encrypting and decrypting data messages. Then send them to a friend.
 
 **Regex Query Tool** - A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
+
+Games
+---
+
+**Flappy Bird** - Emulate the popular [flappy bird](http://flappybird.io/) game
+**Tic Tac Toe** - Create a tic tac toe game using a class
