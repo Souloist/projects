@@ -59,5 +59,6 @@ Text Manipulation
 Games
 ---
 
-**Flappy Bird** - Emulate the popular [flappy bird](http://flappybird.io/) game
-**Tic Tac Toe** - Create a tic tac toe game using a class
+**Flappy Bird** - Emulate the popular [flappy bird](http://flappybird.io/) game.
+
+[**Tic Tac Toe**](https://github.com/Souloist/Projects/blob/master/solutions/tic_tac_toe.rb) - Create a tic tac toe game using a class
