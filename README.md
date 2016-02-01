@@ -42,7 +42,7 @@ Text Manipulation
 
 [**Check if Palindrome**](https://github.com/Souloist/Projects/blob/master/solutions/isPalindrome.java) - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
-[**Check if Anagram**]() - Given a pair of strings, return true of those string are anagrams and return false otherwise
+[**Check if Anagram**](https://github.com/Souloist/Projects/blob/master/solutions/isAnagram.py) - Given a pair of strings, return true of those string are anagrams and return false otherwise
 
 **Count Words in a String** - Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 
