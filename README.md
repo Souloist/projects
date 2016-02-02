@@ -58,7 +58,7 @@ Text Manipulation
 
 **Regex Query Tool** - A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
 
-Classes
+Object Orientation
 ---
 
 **Flappy Bird** - Emulate the popular [flappy bird](http://flappybird.io/) game.
@@ -66,3 +66,5 @@ Classes
 [**Tic Tac Toe**](https://github.com/Souloist/Projects/blob/master/solutions/tic_tac_toe.rb) - Create a tic tac toe game
 
 **Company Manager** - Create an hierarchy of classes - abstract class Employee and subclasses HourlyEmployee, SalariedEmployee, Manager and Executive. Every one's pay is calculated differently, research a bit about it. After you've established an employee hierarchy, create a Company class that allows you to manage the employees. You should be able to hire, fire and raise employees.
+
+**Chess Game** - Create an interactive game of chess using object orientation 
