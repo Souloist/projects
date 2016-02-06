@@ -1,5 +1,9 @@
 def isBalanced(parenthesis):
-
+	
+	# if the length of the string is odd, there cannot be pairs of parenthesis
+	if len(parenthesis)%2 == 1:
+		return False
+		
 	# Python arrays can be used as stacks due to append() and pop()
 	stack = []
 
