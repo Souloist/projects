@@ -35,6 +35,12 @@ Webcrawling
 
 **1-Day Stock Data** - Given a stock price abbreviation (eg. GOOG), return the entire day's minute stock data and save it to a text file.
 
+Data Analytics
+---
+
+[**Analyze Alcohol Data**] - Given a csv consisting of data for alcohol consumption for various countries, create a program that parses the data and returns results (highest alcohol consumption, order alphebetically, etc) with built in functions. Utilize numpy arrays. 
+
+
 Text Manipulation 
 ---
 
