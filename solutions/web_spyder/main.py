@@ -11,10 +11,10 @@ def create_project_dir(directory):
 def create_data_files(project_name, base_url):
 
 	# queue of webpages that have not been crawled
-	queue = project_name + "queue.txt"
+	queue = project_name + "/queue.txt"
 
 	# list of webpages that have been crawled
-	crawled = project_name + "crawled.txt"
+	crawled = project_name + "/crawled.txt"
 
 	if not os.path.isfile(queue):
 
@@ -30,3 +30,6 @@ def write_file(path, data):
 
 	# close to prevent data leak
 	f.close()
+
+# create_data_files('wikipedia', 'https://wikipedia.org')
+
