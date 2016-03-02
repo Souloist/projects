@@ -33,3 +33,14 @@ def write_file(path, data):
 
 # create_data_files('wikipedia', 'https://wikipedia.org')
 
+# add link data to existing file
+def append_to_file(path, data):
+
+	# 'a' means append mode
+	with open(path, 'a') as file:
+		file.write(data + '\n')
+
+# Delete the contents of a file
+def delete_file_contents(path):
+	with open(path, 'w'):
+		pass
