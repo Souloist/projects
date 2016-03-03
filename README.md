@@ -60,7 +60,7 @@ Text Manipulation
 
 [**Check if Anagram**](https://github.com/Souloist/Projects/blob/master/solutions/isAnagram.py) - Given a pair of strings, return true of those string are anagrams and return false otherwise
 
-[**Anagram Difference**]() - Given a string that consists of two other strings(s1 and s2), return the number of letter changes needed in order for s1 to be an anagram of s2
+[**Anagram Difference**](https://github.com/Souloist/Projects/blob/master/solutions/anagramCount.cs) - Given a string that consists of two other strings(s1 and s2), return the number of letter changes needed in order for s1 to be an anagram of s2
 
 **Count Words in a String** - Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 
