@@ -44,6 +44,8 @@ Data Analytics
 
 [**Analyze Alcohol Data**] - Given a csv consisting of data for alcohol consumption for various countries, create a program that parses the data and returns results (highest alcohol consumption, order alphebetically, etc) with built in functions. Utilize numpy arrays. 
 
+[**Audio Signal Denoising**]() - Apply the short time fourier transform in denoising an audio signal with white white noise. Incorporate soft thresholding along with the STFT and visualize the results with a spectogram. 
+
 
 Text Manipulation 
 ---
