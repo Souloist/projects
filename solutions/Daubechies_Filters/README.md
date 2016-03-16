@@ -4,7 +4,7 @@
 
 Low Pass Filter:
 
-![image](https://cloud.githubusercontent.com/assets/7750379/13819960/b5f6dce6-eb71-11e5-9a7a-0750fc7c5617.png)
+![image](https://cloud.githubusercontent.com/assets/7750379/13820224/bb101534-eb72-11e5-9585-b6a9dab440dc.png)
 
 High Pass Filter:
 
