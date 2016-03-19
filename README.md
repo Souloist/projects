@@ -37,7 +37,7 @@ Webcrawling
 
 **1-Day Stock Data** - Given a stock price abbreviation (eg. GOOG), return the entire day's minute stock data and save it to a text file.
 
-**Web Spyder** - create a web crawler that stores domains in text files in organized folders
+**Web Spyder**(https://github.com/Souloist/Projects/tree/master/solutions/web_spyder) - create a web crawler that stores domains in text files in organized folders
 
 Data Analytics
 ---
