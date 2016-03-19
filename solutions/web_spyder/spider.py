@@ -63,4 +63,25 @@ class Spider:
 			# Update que and crawled files
 			Spider.update_files()
 
+	@staticmethod
+	def gather_link(page_url):
 
+		html_string = ''
+
+		# urlopen returns byte data which we have to turn into a readable string 
+		try:
+			response = urlopen(page_url)
+			
+			# make sure it is html data (in case we crawl a pdf file)
+			if response.getheader('Content-Type') == 'text/html':
+				html_bytes = response.read()
+				html_string = html_bytes.decode("utf-a")
+
+			finder = LinkFinder(Spider.base_url, page_url)
+			finder.feed(html_string)
+		except:
+			print('Error: Cannot crawl page')
+			# Return empty set if we cannot crawl the link
+			return set()
+
+		return finder.page_links()
