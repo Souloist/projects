@@ -85,3 +85,28 @@ class Spider:
 			return set()
 
 		return finder.page_links()
+		
+	@staticmethod
+	def add_links_to_queue(links):
+		for url in links:
+			# check to make sure that link does not already exist to waiting link
+			if url in Spider.queue:
+				continue
+
+			# check to make sure link is not in crawled list
+			if url in Spider.crawled:
+				continue
+
+			# check if link contains the domain. We dont want to crawl the entire internet
+			if Spider.domain_name not in url:
+				continue
+
+			Spider.queue.add(url)
+
+	@staticmethod
+	def update_files():
+
+		set_to_file(Spider.queue, Spider.queue_file)
+		set_to_file(Spider.crawled, Spider.crawled_file)
+		
+
