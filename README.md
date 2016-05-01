@@ -62,7 +62,7 @@ Text Manipulation
 
 [**Reverse a String**](https://github.com/Souloist/Projects/blob/master/solutions/reverse_string.py) - Enter a string and the program will reverse it and print it out.
 
-[**Reverse vowels in a String**]() - Given a string, return the string with its vowels reversed.
+[**Reverse vowels in a String**](https://github.com/Souloist/Projects/blob/master/solutions/reversingVowels.java) - Given a string, return the string with its vowels reversed.
 
 ```
 hello --> holla
