@@ -1,3 +1,5 @@
+/* Created by Richard Shen */
+
 public class reversingVowels{
 
     public static String reverseVowels(String s) {
