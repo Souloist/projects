@@ -49,7 +49,7 @@ Signal Processing
 
 [**Audio Signal Denoising**](https://github.com/Souloist/Projects/tree/master/solutions/STFT) - Apply the short time fourier transform in denoising an audio signal with white white noise. Incorporate soft thresholding along with the STFT and visualize the results with a spectogram. 
 
-[**Daubechies Filters**](https://github.com/Souloist/Projects/blob/master/solutions/daubechies_filters.m) - Construct Daubechies filters of lengths 4, 6, and 8. 
+[**Daubechies Filters**](https://github.com/Souloist/Projects/tree/master/solutions/Daubechies_Filters) - Construct Daubechies filters of lengths 4, 6, and 8. 
 * In order to obtain the low-pass filter, we start with the symmetric half-band filters of the form Q(z) (z+1)^K and then perform spectral factorization. 
 * In To obtain the high-pass filter, we time-reverse and modulate the corresponding low pass filter. 
 
